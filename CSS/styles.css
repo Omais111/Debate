@@ -1,0 +1,135 @@
+body{
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+h1{
+    margin: 0;
+    font-size: 70px;
+}
+h3{
+    padding-top: 10px;
+    font-size: 40px;
+}
+
+.a1{
+   margin: 0 auto 40px;
+    display: inline-block; 
+    font-family: 'Sacramento', cursive; 
+        }
+    .a2{
+        font-size: 20px;
+        font-style: italic;
+        margin: 100px auto 40px ;
+        display: inline-block;  
+
+    }
+
+    hr{
+        margin-top: 30px;
+        color: rgba(68, 67, 66, 0.521);
+        border-width: 5px;
+        border-style: dotted;  
+        border-top: 2px;
+        border-radius: 30px 30px;
+        width: 2%;
+        transition: transform 0.2s;
+    }
+    hr:hover{ transform: scale(2); }
+    .table{
+        display: inline-block;
+        text-align: center;
+    }
+    .t1{
+        padding: 10px 150px 30px 150px;
+    }
+    .hd{ 
+        padding: 10px 10px 30px 10px;
+    }
+    h2{
+        text-align: center;
+        display: block;
+    }
+    .profile{
+        font-size: 20px;
+        padding: 130px 0;
+    }
+    .rrr{
+        display: inline-block;
+        padding: 0;
+        width: 5%;
+        height:5%;
+    }
+  .rr{
+
+    padding-right: 20px;
+  }
+    .aa{
+        padding-right: 800px;
+        margin: 0;
+        width: 20%;
+        height: 20%;
+
+    }
+    .bb{
+        
+        padding-left: 800px;
+        margin: 0;
+        width: 10%;
+        height: 1%;
+    }
+    .apple{
+
+        display: inline-block;
+        padding-right: 250px;
+       
+       
+    }
+    .android{
+
+        display: inline;
+        padding-left: 250px;
+    }
+    .mail{  transition: transform 0.2s ; height: 50px; width: 50px;}
+.mail:hover{ transform: scale(2);}
+.review{
+    font-family: 'Sacramento', cursive; 
+    text-decoration: underline;
+    text-overflow: initial;
+}
+.form{
+    display: inline-block;
+    font-family: 'Sacramento', cursive; 
+   text-align: left;
+   font-size: 30px;
+   padding: 50px 60px;
+
+}
+.review2{
+    display: inline-block;
+   
+}
+.review3{ border-radius: 200px 550px;
+    border-style: dashed;
+
+}
+.review4{ border-radius: 200px 550px;
+    border-style: dashed;
+
+}
+.review1{
+    border-color: initial darkgrey;
+    border-radius: 200px 550px;
+    border-style: dashed;
+    border-width: 2px;
+    padding:10px 60px ;
+    text-align: left;
+}
+.sb{
+    font-weight: bolder;
+    background-color: white;
+    border-color: initial darkgrey;
+    border-radius: 200px 550px;
+    border-style: dashed; transition: transform 0.2s ; 
+}
+.sb:hover{ transform: scale(2);}
